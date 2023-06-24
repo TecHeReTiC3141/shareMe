@@ -4,6 +4,7 @@
 
 body {
     font-family: 'Lato', sans-serif;
+    padding: .5rem;
 }
 
 .hide-scrollbar::-webkit-scrollbar {
